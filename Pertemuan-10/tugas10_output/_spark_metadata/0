@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/manggala/praktikum-bigdata/Pertemuan-10/tugas10_output/part-00000-86e45f32-8345-42a9-bfac-3ffebcc4896d-c000.snappy.parquet","size":1817,"isDir":false,"modificationTime":1794409126341,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/manggala/praktikum-bigdata/Pertemuan-10/tugas10_output/part-00001-7707a774-ec02-4daa-acd2-d613127a462f-c000.snappy.parquet","size":1851,"isDir":false,"modificationTime":1794409126341,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/manggala/praktikum-bigdata/Pertemuan-10/tugas10_output/part-00002-45f68d8e-8168-45a5-b697-3ea9890ffaf0-c000.snappy.parquet","size":1794,"isDir":false,"modificationTime":1794409126341,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/manggala/praktikum-bigdata/Pertemuan-10/tugas10_output/part-00003-638594e7-caed-482a-881d-6558e6fd43fe-c000.snappy.parquet","size":1814,"isDir":false,"modificationTime":1794409126341,"blockReplication":1,"blockSize":33554432,"action":"add"}

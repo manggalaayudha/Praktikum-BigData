@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/manggala/praktikum-bigdata/Pertemuan-10/tugas10_stream/batch1.csv","timestamp":1794408974764,"batchId":0}
+{"path":"file:///home/manggala/praktikum-bigdata/Pertemuan-10/tugas10_stream/batch2.csv","timestamp":1794408983316,"batchId":0}
+{"path":"file:///home/manggala/praktikum-bigdata/Pertemuan-10/tugas10_stream/batch3.csv","timestamp":1794408991164,"batchId":0}
+{"path":"file:///home/manggala/praktikum-bigdata/Pertemuan-10/tugas10_stream/batch4.csv","timestamp":1794409125783,"batchId":0}
